@@ -190,7 +190,7 @@ function promptUser() {
       }
       
 
-// 🔁Decision exit or remain in the loop 
+
     function addEmp() {
         return inquirer.prompt([
           {
